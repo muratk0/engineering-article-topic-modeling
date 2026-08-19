@@ -1,0 +1,11 @@
+# Ham veri - GitHub'a yüklenmiyor (çok büyük + gizli staj verisi)
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# VS Code
+.vscode/
