@@ -1,7 +1,0 @@
-# GreenCoat Tin House wins Iconic Architecture award 2017
-
-[TARİH: 01.10.2017 ISMR]
-
-THE HIGHLY ACCLAIMED "Tin House", a London residence made from the sustainable colourcoated product GreenCoat from SSAB, has been named "Iconic Awards 2017 – Winner" by the international architect network, Iconic World. Designed by award-winning architect Henning Stummel, the Tin House features an exterior that is clad entirely in GreenCoat PLX Pro BT from SSAB.
-
-"In choosing to use GreenCoat, we began by looking at all materials. What was important was ensuring that we could get a coloured finish that would be long-lasting – something that wouldn't fade – to preserve the unique look for decades to come. The fact that GreenCoat PLX Pro BT features a coating with sustainable properties is an equally important benefit," explained Stummel. "GreenCoat PLX Pro BT features a patented Bio-based Technology (BT) coating that uses a substantial portion of Swedish rapeseed oil instead of fossil-based oils, which are traditionally used. GreenCoat PLX Pro BT is also well known among tinsmiths for its easy hand forming and long colour retention, in addition to being highly resistant to corrosion, UV radiation as well as scratches," added SSAB. The Iconic Awards are neutral international architecture and design awards that focus on how the disciplines of architecture, design construction and industry interact.

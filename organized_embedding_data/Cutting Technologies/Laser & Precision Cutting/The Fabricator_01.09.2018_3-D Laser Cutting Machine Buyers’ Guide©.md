@@ -1,7 +1,0 @@
-# 3-D Laser Cutting Machine Buyers’ Guide©
-
-[TARİH: 01.09.2018 The Fabricator]
-
-2018 Forming & Fabricating
-
-®

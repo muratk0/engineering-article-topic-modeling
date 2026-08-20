@@ -1,7 +1,0 @@
-# A firm grip
-
-[TARİH: 01.06.2016 ISMR]
-
-AT THE Automatica exhibition in Munich, Goudsmit Magnetics Group (Hall A6, stand 131) will present an updated version of the magnetic gripper. This is used for picking up or holding items such as punched steel parts, blanks and perforated steel sheet in robotic applications. "The light magnetic gripper is fitted with permanent magnets and can be used in grippers on robot arms. The magnets can be switched on and off pneumatically. This enables the system to pick up and transport even very thin steel sheets one at a time. The rubber pad at the end ensures that the work piece does not slide during vertical pick-up and prevents the work piece from being damaged. This easily installable system is already in use by a number of large car manufacturers," said the company.
-
-The use of a magnetic gripper on robot arms replaces the traditional vacuum technique. A disadvantage of vacuum grippers is that they are susceptible to malfunction and subject to wear. Furthermore, the vacuum cups must be positioned correctly, because when they are positioned even partially over a hole in the metal sheet they do not grip at all. Electromagnets are not a good solution for this problem, because they are so heavy that they reduce the lifting capacity. A magnetic gripper with permanent magnets is considerably lighter. Moreover, the gripper does not wear and has a longer service life than vacuum grippers." See www.goudsmit.eu

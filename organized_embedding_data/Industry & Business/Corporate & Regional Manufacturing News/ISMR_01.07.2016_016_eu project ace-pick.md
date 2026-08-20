@@ -1,9 +1,0 @@
-# EU project ACE-PICK
-
-[TARİH: 01.08.2016 ISMR]
-
-THE GAZOLDO degli Ippoliti (Mantua - Northern Italy) HQ of Marcegaglia recently hosted the annual meeting of Technical Group Steel no. 5 (Finishing and Coating) of the European Commission (Research Fund for Coal and Steel). It was held to assess steel industry projects being financed, mainly by the RFCS (formerly CECA) fund, which has been supporting innovation in the industry since 1952. The meeting, also attended by company Chairman and CEO Antonio Marcegaglia, included the presentation of intermediate results from the ACE-PICK demonstration project, launched to industrialise and validate the world's first Alternating Current (AC) electrolytic pickling process/technology. The process was initially developed on a laboratory scale by Centro Sviluppo Materiali, the company which still owns the relevant patent, before being put into operation at the Marcegaglia plant at Gazoldo degli Ippoliti with, said the company, positive results over a period of more than 15 months.
-
-Active participants in the ACE-PICK project also include major steel industry players such as ArcelorMittal Bremen, TENOVA and SCANACON, who are particularly interested in this new technology's possible future applications.
-
-“The AC electrolytic pickling process is a major breakthrough in treatment lines for flat products, since it can significantly reduce – by up to 50% – the treatment times normally required using conventional processes, on both hot and cold rolled products. It also makes the use of sandblasters and/or scale-breakers optional and no longer necessary, with obvious benefits for surface quality, especially for products destined for Bright Annealing. What's more, for stainless steels, the process has delivered a significant reduction in environmental impact thanks to the lower specific consumption of reagents such as hydrofluoric and nitric acids," Marcegaglia told ISMR.
