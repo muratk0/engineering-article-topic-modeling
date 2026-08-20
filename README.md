@@ -1,4 +1,4 @@
-# 📚 Engineering Article Topic Modeling & Classification
+# 🏭 Engineering Article Topic Modeling & Classification
 
 Automated topic modeling, taxonomy creation, and file classification system for **21,273+ mechanical engineering articles** using NLP and Machine Learning.
 
@@ -7,104 +7,105 @@ Automated topic modeling, taxonomy creation, and file classification system for 
 ## 📌 Project Overview / Proje Özeti
 
 ### 🇬🇧 English
-This project automatically categorizes over 21,000 unlabelled Markdown articles into a structured 2-level taxonomy (**Topic → Subtopic**). Using Natural Language Processing (NLP) and Unsupervised Machine Learning, articles are vectorized and clustered based on semantic word frequency, then organized into physical directories.
+This project automatically categorizes over 21,000 unlabelled Markdown articles into a structured 2-level taxonomy (**Topic ➔ Subtopic**). It employs two distinct Unsupervised Machine Learning approaches to compare performance:
+1. **Baseline Model (TF-IDF):** Vectorizes text based on keyword frequencies. Excellent at isolating specific machine types (e.g., Waterjets, Lasers).
+2. **Advanced Model (Semantic Embeddings):** Uses `sentence-transformers` to capture the true contextual meaning of articles. **(Chosen as Final Deliverable)** as it correctly distinguishes between technical tutorials and corporate/economic news.
 
 ### 🇹🇷 Türkçe
-Bu proje, etiketlenmemiş 21.000'den fazla makine mühendisliği makalesini Doğal Dil İşleme (NLP) ve Gözetimsiz Makine Öğrenmesi kullanarak 2 seviyeli bir hiyerarşide (**Topic → Subtopic**) otomatik olarak gruplar ve klasörler.
+Bu proje, etiketlenmemiş 21.000'den fazla makine mühendisliği makalesini Doğal Dil İşleme (NLP) kullanarak (**Topic ➔ Subtopic**) hiyerarşisinde otomatik olarak sınıflandırır. İki farklı yöntem kullanılmıştır:
+1. **Temel Model (TF-IDF):** Kelime sıklığına göre çalışır. Belirli makine isimlerini ayırmada iyidir.
+2. **Gelişmiş Model (Semantic Embeddings):** Makalelerin anlamsal bütünlüğünü kavramak için `sentence-transformers` kullanır. Şirket haberleri ile teknik makaleleri birbirinden mükemmel şekilde ayırdığı için **Nihai (Final) Model** olarak seçilmiştir.
 
 ---
 
-## 🛠️ Methodology & Technical Architecture / Yöntem
+## ⚙️ Methodology & Technical Architecture / Yöntem
 
-1. **Text Vectorization (TF-IDF):** 
-   - Converted raw text into 500-dimensional numerical vectors using `TfidfVectorizer`.
-   - Filtered out domain-agnostic stop words to highlight key technical terms (e.g., *welding, laser, hydraulic*).
+### 1. TF-IDF + K-Means (Baseline Pipeline)
+- Converted raw text into numerical vectors using `TfidfVectorizer`.
+- Evaluated optimal clusters via Silhouette/Elbow, identifying **K=15**.
+- Grouped into 7 Main Topics and 15 Subtopics. Very strict on technical keywords but lacks contextual understanding for business news.
 
-2. **Optimal Cluster Evaluation (Elbow & Silhouette):**
-   - Evaluated cluster count $K \in [5, 25]$ using **Inertia** (Elbow method) and **Silhouette Scores**.
-   - Identified $K=15$ as the mathematical optimal point for intra-cluster cohesion and inter-cluster separation.
-
-3. **Clustering & Taxonomy Mapping (K-Means):**
-   - Partitioned dataset into 15 Subtopic clusters via **K-Means Clustering**.
-   - Extracted top keyword features for each cluster center to assign human-readable Subtopic names.
-   - Hierarchically grouped 15 Subtopics into **7 Main Industry Topics**.
-
-4. **Automated Directory Structuring:**
-   - Programmatically replicated the CSV taxonomy onto the file system (`organized_data/Topic/Subtopic/`).
+### 2. Sentence-Transformers + K-Means (Final Embedding Pipeline)
+- Utilized the `all-MiniLM-L6-v2` transformer model to convert articles into 384-dimensional dense semantic vectors.
+- Evaluated optimal clusters via Silhouette/Elbow, identifying a strong peak at **K=10**.
+- Grouped into **8 Main Topics and 10 Subtopics**. Successfully mapped semantic intent, separating regional manufacturing news from raw material discussions.
 
 ---
 
-## 📊 Taxonomy Structure / Konu Hiyerarşisi
+## 📊 Final Taxonomy (Embedding K=10) / Nihai Konu Hiyerarşisi
 
 ```
-├── 1. Cutting Technologies (2,917 articles)
-│   ├── Laser Cutting
-│   ├── Waterjet & Plasma Cutting
-│   └── Surface Treatment & Plasma Tables
-├── 2. Forming & Bending (4,926 articles)
-│   ├── General Machinery & Tube Bending
-│   ├── Press Brake & Hydraulic Systems
-│   └── Bending Tooling & Die Design
-├── 3. Industry & Business (9,226 articles)
-│   ├── General Manufacturing & Production
-│   ├── Company Profiles & Stories
-│   ├── US Fabrication News (FMA/Fabtech)
-│   ├── Trade Shows & Exhibitions
-│   └── UK Manufacturing Sector
-├── 4. Welding (1,360 articles)
-│   └── Welding Processes & Robotics
-├── 5. Materials (1,096 articles)
-│   └── Steel & Raw Materials
-├── 6. Market & Economy (1,454 articles)
-│   └── Global Market Trends
-└── 7. Design & Engineering (294 articles)
-    └── CAD & 3D Modeling
+├── 1. Industry & Business
+│   ├── Corporate & Regional Manufacturing News
+│   ├── Fabrication Shop Stories & Profiles
+│   └── Trade Shows & Exhibitions (EuroBLECH/Fabtech)
+├── 2. Cutting Technologies
+│   └── Laser & Precision Cutting
+├── 3. Forming & Machinery
+│   └── Hydraulic & Mechanical Presses
+├── 4. Forming & Bending
+│   └── Press Brake Tooling & Sheet Bending
+├── 5. Welding
+│   └── Welding Processes & Automation
+├── 6. Technology & Software
+│   └── Software & Smart Manufacturing (CAD-Data)
+├── 7. Market & Economy
+│   └── Global Market Trends & Steel Demand
+└── 8. Materials & Processing
+    └── Sheet Metal Forming & Raw Materials
 ```
 
 ---
 
-## 📁 Repository Structure / Klasör Yapısı
+## 📂 Repository Structure / Klasör Yapısı
 
 ```
-├── data/                      # Raw articles (Excluded from Git)
-├── organized_data/            # Programmatically organized articles (Excluded from Git)
-├── cluster.py                 # Initial 10-cluster experiment script
-├── find_optimal_k.py          # Optimal K evaluation script (Elbow & Silhouette)
-├── optimal_k.png              # Generated evaluation graphs
-├── cluster_v2.py              # Main 15-cluster K-Means execution script
-├── create_final_labels.py     # Taxonomy mapping script (Generates labels_final.csv)
-├── check_labels.py            # Quality assurance / sample validation script
-├── organize_files.py          # File system directory organization script
-├── labels_final.csv           # FINAL DELIVERABLE: Mapped article dataset
-└── README.md                  # Project documentation
+├── data/                             # Raw articles (Excluded from Git)
+├── organized_embedding_data/         # Final physically organized folders (Excluded from Git)
+│
+├── 📁 experiment_embedding/          # ➔ FINAL EMBEDDING PIPELINE
+│   ├── cluster_embedding.py          # Master embedding generation & K=10 clustering script
+│   ├── organize_embedding_files.py   # Script to physically sort files into folders
+│   ├── optimal_k_embedding.png       # Evaluation graph proving K=10 is optimal
+│   ├── labels_embedding_final.csv    # FINAL DELIVERABLE: The exact taxonomy mapping
+│   └── cross_check.py                # QA script comparing TF-IDF vs Embedding results
+│
+├── cluster_tfidf.py                  # ➔ BASELINE TF-IDF PIPELINE (Legacy master script)
+├── find_optimal_k.py                 # Graph evaluation for TF-IDF (K=15)
+├── optimal_k.png                     # Graph output for TF-IDF
+├── labels_final.csv                  # Legacy TF-IDF taxonomy mapping
+├── organize_files.py                 # Legacy file organizer
+└── README.md                         # Project documentation
 ```
 
 ---
 
 ## 🚀 How to Run / Nasıl Çalıştırılır?
 
+### Running the Final Embedding Pipeline
 ```bash
-# 1. Install dependencies
-pip install scikit-learn pandas matplotlib
+# 1. Install required AI and ML libraries
+pip install scikit-learn pandas matplotlib sentence-transformers torch
 
-# 2. Run optimal K evaluation (Generates optimal_k.png)
-python find_optimal_k.py
+# 2. Execute the master embedding script (Takes ~10 mins on CPU)
+# (Generates embeddings, clusters with K=10, and outputs labels_embedding_final.csv)
+cd experiment_embedding
+python cluster_embedding.py
 
-# 3. Execute 15-cluster K-Means algorithm
-python cluster_v2.py
+# 3. Organize the physical .md files into Topic/Subtopic folders
+python organize_embedding_files.py
+```
 
-# 4. Map clusters to 2-level taxonomy (Generates labels_final.csv)
-python create_final_labels.py
-
-# 5. Organize physical files into Topic/Subtopic directories
-python organize_files.py
+### Running the Baseline TF-IDF Pipeline
+```bash
+# 1. Execute the master TF-IDF script
+python cluster_tfidf.py
 ```
 
 ---
 
 ## 📈 Evaluation Results / Evaluasyon
-
 - **Total Articles Processed:** 21,273
-- **Total Words Analyzed:** ~20.6 Million
-- **Unique Vocabulary:** 83,728
-- **Final Taxonomy:** 7 Main Topics, 15 Subtopics
+- **Embedding Model:** `sentence-transformers/all-MiniLM-L6-v2`
+- **Vector Dimensions:** 384
+- **Final Selected K:** 10 (Chosen via Silhouette Score analysis)
