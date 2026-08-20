@@ -1,0 +1,207 @@
+# Product News
+
+[TARİH: 01.07.2018 The Fabricator]
+
+Measurement software compatible with CNC CMMs
+
+Verisurf Software Inc. has introduced Verisurf 2018 measurement software for automated quality inspection, reporting, scanning, reverse engineering, tool building, and assembly guidance. The new universal CMM option helps ensure software compatibility with nearly all CNC CMMs.
+
+Automatic feature recognition allows any CAD feature to be selected and immediately added to an inspection plan; quick measurement of torus shapes for parts such as O-rings; ability to use the probe shaft for measuring thin edges, such as sheet metal; improved mesh editing; and added mesh Boolean controls for combining and dissecting meshes with intersecting geometry.
+
+Verisurf Software Inc.
+
+www.verisurf.com
+
+Tapping tool available in D station size
+
+Wilson Tool International
+
+®
+
+has announced that the QuickTap™ tapping tool is available for the D station as well as the previously available C station size.
+
+Manufactured for thick-turret punch press machines, the tool runs in the punch press, allowing users to eliminate secondary hole-threading operations.
+
+The tool taps a threaded hole with every machine stroke, at up to 200 holes/min. It can create strong, accurate threads at any programmed location on the sheet. Shavings from machine tapping are reduced or eliminated.
+
+The built-in tapping fluid injection system is synchronized with the machine stroke to help reduce wear and breakage. Its large tank enables the tapping of up to 40,000 holes before refilling.
+
+Wilson Tool International
+
+www.wilsontool.com
+
+3-D printer includes autoleveling
+
+MakerGear has introduced the M3 Independent Dual Rev. 1 3-D printer with optional enclosure. The printer offers a touch probe that expedites, manages, and improves the print bed leveling process by providing simple instructions to the user if needed. The probe also checks the print surface to generate a mesh using nine data points to compensate for any unavoidable variations in the flatness of the print bed.
+
+The printer features Wi-Fi connectivity, wireless control, an integrated user interface, and high-temperature V4 hot ends that handle a variety of materials.
+
+MakerGear
+
+www.makergear.com
+
+Fiber laser cutting system handles coil widths to 72 in.
+
+Produtech S.r.l. offers coil-fed fiber laser systems. With the natural progression of the coil, there is no load/unload time or shuttle table transfer time, which helps increase output.
+
+The coil-fed laser system is available in coil widths from 24 to 72 in. Fiber lasers from 1 to 4 kW can process materials from 0.015 to 0.187 in. in mild steel, galvanized steel, stainless steel, INCONEL
+
+®
+
+alloy, and aluminum.
+
+Automated Fabrication Systems LLC
+
+www.autofabsys.com
+
+SEM delivers 3-D printing process control
+
+The new Thermo Scientific Explorer 4 Additive is the first commercially released SEM designed to measure particle size, shape, and composition in AM metal powders and to inspect finished parts to ensure quality, says the company.
+
+The SEM automatically and simultaneously analyzes particle size distribution and morphology. Advanced energy-dispersive X-ray (EDX) spectrometry provides fast elemental analysis that can automatically identify impurities. Suspect particles can be relocated for more detailed examination.
+
+The system’s ability to examine and classify large sets of particles, inclusions, voids, and cracks within minutes enables the use of SPC techniques and permits faster responses to process excursions, the manufacturer reports.
+
+Thermo Fisher Scientific
+
+www.thermofisher.com
+
+Abrasive saw cuts through INCONEL alloy in seconds
+
+Kalamazoo Industries has customfabricated an abrasive cutoff saw for a company that needed to cut hundreds of INCONEL
+
+®
+
+alloy billets fast to meet a customer’s JIT requirements.
+
+The saw cuts the 3-in.-dia. stock in 8 sec., 5-in.-dia. stock in 15 sec., and 7½-in.-dia. stock in 29 sec. The manufacturer equipped the saw, built around the model K36, with a 75-HP motor, a specially formulated wheel, and the newly developed TruArc™ oscillation system for increased cutting speed without burrs.
+
+Kalamazoo Industries
+
+www.kalamazooindustries.com
+
+Grinding wheels grind, cut, and undercut
+
+Innovative Products of America
+
+®
+
+has introduced 3-in-1 Diamond Grinding Wheels. Available in 2 and 3 in. dia., the wheels are used with high-speed die grinders.
+
+Each grinding disc features a diamond-abrasive edge that lasts 20 to 60 times longer than traditional abrasives, according to the company. The 3-D coating allows back cutting, gully grinding, and bead finishing in areas other grinding wheels cannot access.
+
+Innovative Products of America
+
+www.ipatools.com
+
+Percussion welding machine introduced
+
+Straus-Artys offers a percussion welding machine, providing welding time of about 10 ms and weld current of up to 100 kA. During the process, a joint is produced by a rapidly ignited arc and by the force which is generated by an electromagnet. Only one 50-Hz half-wave is used for the actual welding process.
+
+The machine handles materials with high electrical and thermal conductivity, as well as workpieces with large cross-section and thickness differences. This method is suitable for materials that can be processed on conventional resistance welding machines, as well as copper, tungsten, silver, molybdenum, nickel, and their alloys; workpieces produced by powder metallurgy; and high-melting materials.
+
+Straus-Artys Corp.
+
+www.straus-artys.com
+
+EtherCAT terminals offer process control, power monitoring
+
+Beckhoff Automation has introduced the new EL34x3 series EtherCAT terminals for power measurement and mains monitoring. The new I/O terminals offer basic monitoring of the energy supply network and process control to high-end power monitoring.
+
+The EL3443 three-phase standard power measurement terminal is suitable for all process control tasks. It offers mains monitoring functionality, precise determination of zero voltage crossing, and harmonics analysis. It also is suitable for DC systems.
+
+The EL3453 three-phase terminal for measuring voltages up to 690 VAC handles more demanding process control tasks. The terminal updates its process values with every half-wave, which corresponds to an interval of 10 ms at 50 Hz.
+
+Beckhoff Automation
+
+www.beckhoffautomation.com
+
+Laser metal deposition system monitors build quality in real time
+
+Formalloy has introduced the X-series laser metal deposition system. Featuring options including closedloop control, variable-wavelength lasers, and Formfeed powder feeders for gradient/bimetallic structures, the system can print with many types of metal alloys. Each machine comes standard with the Formax metal deposition head and a customizable build volume with up to five axes of motion.
+
+The system uses scanning technology to monitor build quality and accuracy in real time, and then autocorrects errors to achieve a defect-free part.
+
+Formalloy
+
+www.formalloy.com
+
+Metal AM system handles crack-prone materials
+
+GE Additive has unveiled the Arcam EBM Spectra™ H, a new metal AM system designed to handle high heat and crack-prone materials, such as titanium aluminide and Alloy 718.
+
+Build speed has been increased up to 50 percent. The 6-kW HV unit completes preheating and postheating steps in half the time as an EBM machine, the company states. The movable heat shield keeps heat in the build area. An improved layering procedure reduces the need for heating, saving about five hours for a full-height built, the company states.
+
+GE Additive
+
+www.ge.com/additive
+
+Products added to stringer bead brush line
+
+Osborn has expanded its TufBrush™ stringer bead brush line with five additional products for weld cleanup, including root and hot pass, surface preparation, deburring, and pipe joining. With an improved, proprietary design structure, the line now includes brushes from 4 to 6 in. in carbon or stainless steel.
+
+The brushes feature TufWire™ wire for rigidity, a new knot design that allows for more wire on the work surface, and an increased wire density for improved consistency and brush life.
+
+Osborn
+
+www.tufbrush.com
+
+Foot pedal switch made for small machinery
+
+Rockford Systems LLC has introduced the CTD088 foot switch for operators of small equipment such as riveters and welding machines.
+
+Because operators of small machinery typically do not wear steel-toed boots, the switch features a narrower opening. This snug fit helps reduce the chance for an accidental slip or release.
+
+The compact switch provides complete protection from washdowns that are frequently required in sanitary environments, as well as damage from oil and industrial coolants.
+
+Rockford Systems
+
+www.rockfordsystems.com
+
+Flap discs remove material quickly
+
+The patented POLIFAN
+
+®
+
+-STRONG flap discs from Pferd remove more material in less time than most other consumable abrasives for angle grinders, according to the company. Featuring an extended flap design for consistent, aggressive grinding, the discs are suitable for use in steel construction, foundries, shipbuilding, automotive, tank construction, fabrication, and pipeline work.
+
+The coated flaps are produced with zirconia-alumina abrasive, available in 36 grit for coarse grinding of steel and weld seams or 50 grit for chamfering and deburring. The discs are available in 4½, 5, and 7 in. dia. with plain ⅞-in. bore or ⅝–11 threads.
+
+Pferd Inc.
+
+www.pferdusa.com
+
+Production boards show goals versus actual production
+
+Visual Workplace Inc. offers a line of hourly production boards that provide an at-a-glance view of goal versus actual production. They allow managers and team members to see current status and identify where production is not meeting the expectation and take corrective action.
+
+Providing an overview of production trends, the boards allow employees to track performance in production, costs, quality, safety, and delivery.
+
+Visual Workplace
+
+www.visualworkplaceinc.com
+
+Stainless steel pins attach thin panels in assemblies
+
+New stainless steel PEM
+
+®
+
+TK™TackSert
+
+®
+
+pins from PennEngineering
+
+®
+
+can securely attach panels of any material to base panels manufactured from common casting materials or plastics.
+
+The pins eliminate the need for mating threads from tapped holes or inserts, as well as patches intended to prevent fastener loosening in service. A tapered tip assists in pin location to enable alignment into a base panel. A diagonal broaching knurl instead of threads creates a firm interference fit without hole-tolerance issues, and a low-profile head minimizes protrusion on the attached panel.
+
+The pins are offered in a variety of lengths and can attach sheets with thicknesses from 0.067 to 0.185 in., depending on pin length.
+
+PennEngineering
+
+www.pemnet.com

@@ -1,0 +1,7 @@
+# The FABRICATOR’s 2023 FAB 40 List
+
+[TARİH: 01.06.2023 The Fabricator]
+
+SPONSORED BY
+
+CNA

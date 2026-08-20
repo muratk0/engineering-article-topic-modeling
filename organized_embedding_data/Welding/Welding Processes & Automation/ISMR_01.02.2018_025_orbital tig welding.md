@@ -1,0 +1,13 @@
+# Orbital TIG welding
+
+[TARİH: 01.02.2018 ISMR]
+
+ORBITAL TIG WELDING is technology for tube-to-tube or tube-to-tube/sheet welding applications. With or without filler wire, this process that can be used on a wide range of materials such as carbon steel, stainless steel, titanium and nickel and aluminium alloys. With Polysoude's latest generation of power sources, such as the P4/P6, the development of a welding program, created via the graphical user interface, is designed for a high-quality weld through automation. The welding cycle can be repeated as often as necessary with the same result.
+
+"Modern orbital welding equipment is designed for real-time monitoring of the key welding parameters, which can be checked and compiled into a complete weld protocol generated and stored or produced as a printed document, for guaranteed traceability. The P4/P6 allows the operator to find matching weld programs by using a touchscreen or personal computer. The user specifies basic information, relating to the size and material of the tubes to be joined. The system consults its in-built database to find similar applications, or suggests weld parameters determined by progressive calculation. The proposed welding procedure can finally be optimised by an expert help menu or Welding Assistant."
+
+Polysoude provides a wide standard range of orbital welding equipment for orbital TIG/ GTAW welding as well as automated solutions integrating the latest technologies. It has also produced a complete range of modular and adaptable open and closed welding heads and orbital welding power sources, dedicated to diverse applications, covering a wide range of diameters, wall thicknesses and workpiece geometries.
+
+"Fusion welds of thin-walled tubes can also be made in a wide range of applications. Fusion welds are carried out using portable inverter power sources, combined with closed orbital welding heads. The closed chamber welding heads, such as our MW range, are designed to meet the requirements of hygienic applications. Inside the welding head, the shielding gas flows directly to the weld zone. Thus, all welds are oxidation-free, complying with hygiene requirements. In most cases, the tubes are made of austenitic stainless steel, but nickel alloys as well as titanium and its alloys can also be welded, in a range of diameters," Polysoude explained.
+
+For very thick-walled pipes, Polysoude has found another way of increasing productivity in addition to the Hot-Wire TIG process, by reducing the weld groove design and therefore the volume to be filled by the weld. The use of an open-type carriage welding head, equipped with a Narrow Groove torch, limits the quantity of metal deposited. See www.polysoude.com■

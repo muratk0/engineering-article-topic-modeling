@@ -1,0 +1,17 @@
+# punch
+
+[TARİH: 01.01.2019 ISMR]
+
+CHARGING ELECTRIC VEHICLES may soon be as quickly completed as filling up with fuel is today, thanks to an interim result from the "FastCharge" research project. The research consortium presented a prototype for a charging station with an output of up to 450kW in December 2018 in Jettingen-Scheppach, near the A8 motorway between Ulm and Augsburg (Germany).
+
+The new charging station is suitable for electric models of all brands with the European standard Type 2 variant of the widely used Combined Charging System (CCS), and is now available for use free of charge. A Porsche research vehicle with a net battery capacity of approximately 90kWh reached a charging capacity of over 400kW on the new charging station, allowing for charging times of less than three minutes for the first 100km range.
+
+Initiated in July 2016, the "Fast Charge" research project has received €7.8 million in funding from the German Federal Ministry of Transport and Digital Infrastructure. The implementation of funding guidelines is being coordinated by the German National Organisation Hydrogen and Fuel Cell Technology (NOW). The industrial consortium includes automotive manufacturers the BMW Group and Dr. Ing. h. c. F. Porsche AG, as well as operators Allego GmbH, Phoenix Contact E-Mobility GmbH (charging technology) and Siemens AG (electrical engineering).
+
+"Fast, convenient charging solutions enhance the attractiveness of electromobility; increasing the available charging capacity to up to 450kW allows charging times to be significantly reduced. The charging capacity of the new FastChargers is three to nine times that currently possible with DC rapid-charging stations. The 'FastCharge' project examines which technical conditions need to be fulfilled in terms of vehicles and infrastructure to allow extremely high charging capacities to be applied," said the project leaders.
+
+The charging station prototypes presented use the charging plug from the Combined Charging System (CCS) in the Type 2 variant that is standard for Europe. This charging standard has already proved itself in a wide range of electrified vehicles and is used in many parts of the world. The two Jettinger charging stations are currently available for use with all CCS-enabled vehicles, free of charge. Depending upon the model of vehicle, the new ultra-fast charging station can be used for vehicles with 400-volt and those with 800-volt battery systems. In each case, the charging capacity provided automatically adjusts to the vehicle's maximum permitted charging capacity.
+
+The Porsche research vehicle can achieve a charging capacity of 400kW initially – a first for a passenger car. An innovative cooling system makes this possible, by ensuring even, gentle temperature control in the battery cells.
+
+Porsche is set to invest more than €6 billion in electric mobility by 2022, targeting both plug-in hybrids and fully electric vehicles. This means the company has more than doubled its previously planned expenditure for electromobility from around €3 billion to over €6 billion. Of the additional €3 billion, around €500 million will be used to develop the models and versions in the Taycan range. Porsche will also be investing around €1 billion in the electrification and hybridisation of its existing product range, hundreds of millions in the expansion of its sites, and around €700 million in new technologies, charging infrastructure and smart mobility.

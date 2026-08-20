@@ -1,0 +1,13 @@
+# European Council voices support for manufacturing
+
+[TARİH: 01.04.2014 ISMR]
+
+THE European Council summit, held on 20-21 March 2014, tackled industrial competitiveness as a top priority issue. Before the meeting, the European Commission conveyed a strong message to the European Council asking it to signal clear political commitment to re-industrialisation. The Commission also called on the European Council to endorse the Commission’s goal of increasing the contribution of manufacturing to 20 per cent of the EU GDP by 2020 and to set out an implementation framework for the consistent and coordinated application of policy actions for a European industrial policy.
+
+“The implementation of ‘projects of European interest’ for high performance production has great potential to mobilise significant funds from public and private actors to set up a strong infrastructure for close-to-market research. The impact on industrial competitiveness will be two-fold. SMEs will have facilitated access to validation and testing infrastructure, which will allow them to bring new technologies to the market faster and to increase return on their investments in innovation. Secondly, by turning Europe into a state-of-the art base for technological research, these projects can boost the attractiveness of Europe for manufacturing investments,” commented CECIMO, the European Association of Machine Tool Industries.
+
+“We strongly endorse the European Council’s call on Member States and the Commission to address skills shortages in the area of science, technology, engineering and mathematics (STEM skills) as a matter of priority. Technological edge is the most important asset for Europe to remain competitive in global markets and it builds on a highly skilled workforce,” stated Jean-Camille Uring, CECIMO President and Member of the Executive Board of Fives.
+
+Despite the absence of clear targets and an implementation framework in the summit conclusions, CECIMO has taken a positive note on decisions as regards policy priorities, especially in energy and climate policy. It welcomes the commitment to place industrial competitiveness at its core, in particular through the reduction of Europe’s energy dependency and energy prices. It also supports the call of the European Council to mobilise the EU budget and market-based tools to restore normal lending to the real sector, especially to SMEs.
+
+“We encourage the continuation of discussions within the EU on the approach to industrial policy. It should aim at tackling challenges related to policy governance and putting forward a clear vision of the future of European manufacturing in a global context,” CECIMO told ISMR. ■

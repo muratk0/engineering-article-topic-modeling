@@ -1,0 +1,17 @@
+# Supply chain collaboration for metalworking
+
+[TARİH: 01.11.2023 ISMR]
+
+Only a quarter (24%) of metalworkers say that there is enough supply chain collaboration in the industry, according to new research from SAIT Abrasives. The UK specialist manufacturer of bonded and coated abrasives for industrial use wanted to understand the extent to which the metalworking sector is collaborating to source solutions throughout the supply chain, as it embarks on its own collaborative initiatives to support its end-users and distributors. It surveyed 102 decision-makers in the UK metalworking industry (including operations engineering teams, purchasing teams and production managers) in summer 2023 to uncover their thoughts around training, supply chain collaboration and productivity within the sector.
+
+"Despite this lack of collaboration, just over half (54%) of those surveyed say they value when a supplier can create a tailored solution to their business need and a further half (56%) say that it is important that their suppliers are innovative. However, only half (51%) say that their suppliers are collaborating with them to offer tailored solutions," it highlighted. "Respondents state that they value supply chain collaboration because it helps increase efficiencies within their business (52%), adapt to business needs (47%) and innovate (46%)."
+
+Chris Ingman, Managing Director, SAIT Abrasives, said: "Our research shows that while half the industry does value supply chain collaboration, over three quarters feel that the industry isn't maximising the potential of taking a more cohesive approach to working together. Collaboration is vital to innovation, while our industry is ultimately very traditional and relies on traditional processes, there is still a need for innovation. This could be changes that speed up processes, right through to large-scale digital innovations. No matter the scale, a joined-up approach is essential to understanding the challenge and developing the solution.
+
+"While just under half (44%) say that it is important to them that their suppliers are present in their buying journey, less than a quarter (21%) say that they buy directly through people, instead opting to buy from suppliers' websites. On top of this, only a third (30%) say that they make choices over which supplier to use quicker when they can speak to the potential supplier directly," he continued.
+
+RB Tools & Fixings, a specialist in single-source and supply has been working with SAIT to provide surface finishing solutions to the metalworking industry. Matt Walsh, Operations Director, RB Tools & Fixings, said: "In general, the desire to collaborate is growing but the research suggests we need greater industry awareness of the long-term health and safety, and cost benefits that can be gained from working with the supply chain. Collaboration also enhances the relationship and trust throughout the supply chain, from manufacturer to end user, and builds a line of communication that allows manufacturers to bring new innovations to market from customer feedback."
+
+"Collaboration isn't just crucial to how we solve issues today, it's vital to how we solve future challenges too. At the moment, all industries are facing big questions such as how to work more safely and sustainably.
+
+The answers lie in greater collaboration. Only then will we see useful innovations that lead to more streamlined processes," concluded Chris Ingman.■

@@ -1,0 +1,97 @@
+# Got cracking near the edge of the bend?
+
+[TARİH: 01.06.2023 The Fabricator]
+
+Bending Basics
+
+Watch out for the heat-affected zone from cutting
+
+Steve Benson
+
+is a member and former chair of the Precision Sheet Metal Technology Council of the Fabricators & Manufacturers Association Intl. He is the president of ASMA LLC,
+
+steve@theartofpressbrake.com
+
+. Benson also conducts FMA’s Precision Press Brake Certificate Program, which is held at locations across the country. For more information, visit
+
+www.fmamfg.org/training
+
+, or call 888-394-4362. The author’s latest book, "Bending Basics," is now available at the FMA bookstore,
+
+www.fmamfg.org/store
+
+.
+
+Question:
+
+Several different 0.25-in.-thick A36 parts have been cracking at the edges after bending (see
+
+Figure 1)
+
+.
+
+We’ve bent these same parts many times before and have not had issues until recently. Our external bend angles range from 75 to 90 degrees and our specified inside bend radius is 0.25 in. We’re using a 2-in. V die and a 0.236-in.-radius punch
+
+.
+
+We’re not bending acute, and cracking seems to occur whether we bend with or against the material grain, but parts seemed to crack worse when bent with the grain. This alone doesn’t seem to explain the cracking issue, as we had other batches of parts that did not crack regardless of grain orientation. We are going back through our process to identify whether all of the cracked parts came off of the same sheets. We’re also verifying the grain directions by checking the laser nests.
+
+One possibility is that the cracked parts were accidentally cut out of the wrong material, like C-1010. I would think, however, that the lower hardness of the C-1010 would actually make it less likely to crack than the A36. I would also think that, as both of them are mild steels, neither should crack when bent over a 2-in. die.
+
+We were hoping you might have some insight into what causes cracking like this. How does hardness affect bendability? What other factors could have changed that would cause parts to crack in this manner? Since all of the cracks originated on the edge of the part, could changes in the laser cut conditions have altered the edge hardness and caused something like this?
+
+Answer:
+
+The hardness of steel can significantly impact its ability to bend without breaking. Steel with a high hardness rating, such as hardened or tempered material, will be more brittle and less ductile than softer steel, making it more difficult to bend without cracking or breaking. And yes, any time you laser- or plasma-cut sheet metal or plate, the material hardens in the heat-affected zone (HAZ) at the point of the cut (see
+
+Figure 2
+
+). Depending on the thickness and type of metal, that zone can spread deep into the material (see
+
+Figure 3
+
+).
+
+And you’re right—hardening of the edge can indeed affect the material’s ability to be formed or machined, as the hardened region may be more brittle and less ductile than the rest of the material. Edge cracking is a real possibility, particularly if the laser power and cutting speed were not optimized to minimize the HAZ. If you need a softer edge, you might need to perform additional processing or heat treatment to restore the material properties.
+
+When bending steel, the outer grains of the material will experience tension while the inner grains will experience compression. Harder steels will be less able to deform under these stresses, which can cause the material to fracture along the outer grains. In contrast, softer steels will be more malleable and able to deform better under stress, allowing those materials to bend without breaking.
+
+The thickness of the sheet also can play a role in its ability to bend. Thicker steel will require more force to bend, increasing the likelihood of the material cracking or breaking, especially if it is already hardened or tempered.
+
+When working with steel, consider its hardness and thickness when determining its ability to bend without breaking. Softer, more malleable metals may be easier to work with, while harder metals may require more careful handling to avoid damage.
+
+About Hardness
+
+Standards organizations do not explicitly define the hardness range for A36 steel. Nonetheless, it’s generally known to have a Brinell hardness range (a measure of a material’s resistance to indentation) of between 119 and 159. The hardness of A36 steel can vary depending on factors such as the specific heat treatment used and the thickness of the material, as well as the temperature and duration of any welding or heating processes that may be used during fabrication.
+
+Suppose you require a specific hardness tolerance rating for your A36 steel application. In that case, you may need to work with your supplier to determine the appropriate heat treatment and quality control measures to achieve the desired hardness and avoid or reduce cracking.
+
+The HAZ’s Effect on Forming
+
+When laser cutting A36 steel, the heat generated by the laser can cause localized heating and cooling, potentially resulting in a hardened edge. However, the extent of the hardening will depend on several factors, including the laser power, the cutting speed, and material thickness.
+
+FIGURE 1
+
+Cracking on the outside radius of the bend, near a cut edge, could be due to hardness variation from the cut’s heataffected zone (HAZ). Material property variation could be a contributing factor.
+
+FIGURE 2
+
+A bend cracks near a laser-cut edge. This could be from hardness issues due to a less than optimal HAZ combined with variations in material characteristics, especially considering previous batches of parts were bent without issue.
+
+Suppose the laser power and cutting speed are not adequately controlled. In that case, the heat generated by the laser can cause the material to melt and then rapidly solidify, resulting in a hardened edge. This process is known as
+
+laser quenching
+
+. Material thickness also can influence the extent of the hardening. Thinner materials will cool more quickly, which can result in a greater degree of hardening at the edge.
+
+All this said, if the laser cutting process is adequately controlled, you should be able to minimize the extent of the hardening. For example, depending on the laser system you have, using a lower laser power and slower cutting speed can reduce HAZ and produce less hardening.
+
+An extensive HAZ can affect the material’s mechanical properties, too. If the HAZ is too large, the material properties in the region can be compromised, resulting in increased susceptibility to cracking or other defects during subsequent forming, with localized stresses causing the material to crack along the edge. This is especially true for materials with high hardness, such as hardened or tempered steel, which may be more brittle and less ductile than softer steel. Even though you’re bending mild steel, the cracking you’re experiencing may well result from increased or inconsistent hardness.
+
+You also might have inconsistencies in material properties, an issue with any given metal. The material is the weak spot in the whole forming process, causing problems that, unfortunately, you have no real control over. From the description you gave, I would have to say that your initial analysis is correct. It’s most likely the hardness that’s making life difficult.
+
+For more content from Steve Benson, visit
+
+www.thefabricator.com/author/steve-benson
+
+.

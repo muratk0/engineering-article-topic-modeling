@@ -1,0 +1,15 @@
+# PMA appoints new President
+
+[TARİH: 01.04.2019 ISMR]
+
+THE PRECISION METALFORMING Association (PMA) in the U.S. appointed a new President, David C. Klotz, from 1 February 2019. Klotz will lead the more than 800-member association's work, including PMA's 40-member staff; directing strategic planning; engaging in membership development and outreach; managing finances and leading domestic and international advocacy efforts.
+
+An active PMA member for 25 years, Klotz is already well known within the association. He comes to PMA after serving as President and Executive Vice President of Sales and Marketing for Tebis America, a developer of CAD and CAM software for the tool, die and mould manufacturing industries. Previously, he was senior manager of the Plex Automotive & Industrial Mid-Market sales team for eight years, and was a manager at Dallas Industries, Inc., for 12 years.
+
+"I am very excited to join the PMA team, said Klotz. "As a long-time PMA member, I’ve seen first-hand how PMA's strong networking community helps members to develop and share ideas that they can take back to their own companies, strengthening the entire the metalforming industry. I look forward to helping the PMA grow, and continue to introduce its unique programmes such as its 550 course-strong, new comprehensive online training system designed specifically for the metalforming industry, METALFORM EDU.
+
+As a metalforming industry professional Klotz has served as a member of PMA's Board of Directors, a member of the Executive Committee, and as chair and treasurer of the PMA East Michigan District. He also served as chair of PMA's Tool & Die Division, was a founding member of PMA's Next- Generation networking group, and has been actively engaged in PMA's programmes and services in many other capacities.
+
+"We are delighted to welcome David Klotz as PMA's president," said PMA Chairman, Troy Roberts. "David comes from our industry and has served in several PMA leadership positions at the district and national levels for many years. As a long-standing, active member of PMA, he knows the members and the challenges faced by our industry. He has the managerial, leadership and customer sensitive skill sets required to lead PMA and represent our industry and its members. I thank Bill Gaskin, who came out of retirement to serve as interim president over the past several months, and look forward to working with David, Bill and the entire PMA staff on the many exciting PMA programmes planned for 2019."
+
+PMA is the full-service trade association representing the US $137 billion metalforming industry of North America – the industry that creates precision metal products using stamping, fabricating, spinning, slide forming and roll forming technologies, and other valueadded processes. Its member companies also include suppliers of equipment, materials and services to the industry. PMA offers advocacy, networking, statistics, the PMA Educational Foundation, FABTECH and METALFORM Mexico tradeshows, and MetalForming and 3D Metal Printing magazines.■

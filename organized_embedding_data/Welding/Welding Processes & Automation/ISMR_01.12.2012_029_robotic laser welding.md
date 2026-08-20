@@ -1,0 +1,11 @@
+# Robotic laser welding
+
+[TARİH: 01.12.2012 ISMR]
+
+AT THIS year’s EuroBLECH, TRUMPF highlighted its TruLaser Robot 5020 welding cell. This unit features numerous innovations that are designed to increase productivity significantly for customers who manufacture in large quantities.
+
+“Almost anyone making the conversion from conventional welding to laser welding will find the chucking and clamping unit to be a challenge. In the past, it had to be made up separately for each part. This involves considerable effort when fabricating prototypes. Our modular chucking system, available for the first time at EuroBLECH, is a flexible solution for clamping components of differing sizes and shapes, from simple sheet metal parts to bent profiles, with a single jig in preparation for laser welding. The clamp is quickly matched to the workpiece and the laser welding process can start right away. Here it makes no difference whether you’re doing conduction welding or deep penetration welding, long seams or corner connections,” TRUMPF told ISMR.
+
+Once the part has been selected and the clamping unit set up, a productive manufacturing process is needed. The new model of the TruLaser Robot 5020, fitted with a hand-operated turntable, features an automatic rotation changer with turning axes which boosts productivity even further and enables high-speed, around-the-clock operation to turn out larger piece counts. The robot in the TruLaser Robot welds the part once it has been clamped. The motions for the turning axes are matched exactly to the robot’s moves.
+
+Whilst the joining process is taking place inside the cell, the operator can set up the next part on the outward-facing side of the accessible changer. This reduces downtimes to a minimum. Whenever the operator is setting up new parts, he is protected by an extensive system of photoelectric beams. Only when the footstep sensor inside the rotator's turning radius recognizes that the area is completely free, will that rotator turn. Depending on the size of the part, several components can be welded simultaneously, in a single process step. The load-bearing capacity of the changer is 750kg per side. The predefined interfaces at the turning axes enable custom solutions for part holders at the rotation changer. See www.trumpf.com

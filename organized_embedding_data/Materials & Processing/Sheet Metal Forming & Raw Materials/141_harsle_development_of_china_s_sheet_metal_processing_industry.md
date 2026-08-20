@@ -1,0 +1,45 @@
+﻿# Development of China's Sheet Metal Processing Industry
+
+Having closely followed the evolution of the manufacturing sector, I'm excited to discuss the development of China's sheet metal processing industry in this article. This sector has seen remarkable growth, driven by technological advancements and increased demand for high-quality metal products. I'll share my insights into the key trends, challenges, and opportunities that have shaped this industry. Whether you're an industry professional or simply interested in manufacturing, understanding this development will provide valuable context for the future of metal processing in China.
+
+### Sheet Metal Processing Overview
+Sheet metal working is a kind of metal working process, which usually refers to a comprehensive cold deformation processing process for sheet metal, including shearing, punching/cutting/composite, folding, welding, riveting, splicing, forming, etc., in which the thickness of the sheet metal does not change during the processing. The metalworking processes corresponding to the sheet metal process include casting, forging and machining, where the metal thickness of the product is usually inconsistent.
+
+According to the means of processing, sheet metal processes are divided into manual sheet metal, stamping and CNC sheet metal. At present, manual sheet metal is mainly concentrated in the fields of automobile repair, art and advertising; stamping sheet metal is suitable for product types with a relatively single variety, larger output, smaller structural bodies and relative stability; CNC sheet metal is suitable for product types with small batch sizes, many varieties and large dimensions.
+
+The history of the sheet metal process goes back a long way. Starting from the ancient times with copper and iron, people used various methods to smelt metal materials, and with the improvement of smelting technology, they gradually smelted sheet metal materials and learned to use some tools to process these sheet metal materials. The modern sheet metal process does not have a long history. The application of stamping equipment and cold punching dies in the field of sheet metal processing and the popularisation of CNC automation equipment are two milestones in the development of the sheet metal process, with the former giving birth to stamping and the latter breeding CNC sheet metal.
+
+### Analysis of The Industry Chain of The Sheet Metal Processing Industry
+The main raw materials for the sheet metal processing industry are non-ferrous metal alloy plates and thin steel. The non-ferrous metal industry and the steel industry account for about 40% of the total cost of the industry. In addition, the processing of raw materials into sheet metal products requires forging machinery and moulds, so the above four industries are the upstream of the sheet metal processing industry.
+
+As the application area of sheet metal products is very wide, its downstream includes almost all manufacturing industries, mainly the communication and electronics industry, automobile manufacturing, motorbike manufacturing, aerospace industry, instrumentation industry, home appliance industry, etc. Generally speaking, most of the metal forming parts of various electromechanical products and so on are produced by sheet metal process. Among them, the stamping process is suitable for mass production, while the CNC sheet metal process is suitable for precision production.
+
+### Analysis of The Current Situation of China's Sheet Metal Processing Industry
+1.R & D Status
+
+With the development of industrial manufacturing technology and electronic information technology, the technical requirements for sheet metal processing products are also increasing. From 2011-2017, the number of patent applications in China's sheet metal processing industry increased year by year; in 2014, the number of patent applications in the industry reached the peak in recent years. 2016, the number of patent applications in China's sheet metal processing industry was 83, an increase of 6.4% year on year; in 2017 In 2016, the number of patent applications in China's sheet metal processing industry was 52; in 2017, the number of patent applications in China's sheet metal processing industry was 52.
+
+2. Current market situation
+
+With the global economic expansion and industrial adjustment, the global manufacturing industry has accelerated its transfer to Asia, Latin America and other emerging markets since the 1980s. The rapid development of the manufacturing industry and the huge market capacity of industrial products have driven the development of China's sheet metal processing industry, and the market demand for China's sheet metal processing products is very strong.
+
+From 2011-2020, the market scale of China's sheet metal processing industry has been expanding; in 2016, the market scale of China's sheet metal processing industry reached 688.5 billion yuan. However, on the whole, the sheet metal processing industry started late, the scale of the industry is generally small, and there is a lack of production technicians, so it is difficult to form the core competitiveness of enterprises, and market competition is becoming increasingly fierce, and it does not yet have the strength to compete with international multinational companies.
+
+3. Analysis of the economic benefits of the industry
+
+At present, from an overall perspective, the economic benefits of sheet metal processing in China are relatively good, and many enterprises in the industry have operating profits of over 20%. The sheet metal processing industry mainly does distribution processing for industries such as automobile, shipbuilding, precision machine tools, precision instruments, communication electronics and lifts, and most of these partners are large foreign companies (GE, BOSCH, OTIS).
+
+With the further deepening and lasting of the cooperative relationship, we can learn from them the advanced technology, techniques, and strict and standardized production environment, production processes and other aspects of management experience. This will enable the gradual localisation of key components and key technologies, accordingly reducing the procurement of key components from abroad by foreign-funded enterprises and lowering the production costs of manufacturing enterprises.
+
+At the same time, this way can also do supporting processing for domestic manufacturing enterprises, which can also enable them to obtain key production technology, thus improving the product performance of domestic manufacturing enterprises. At present, there are not too many domestic high-precision sheet metal processing enterprises. The development of the sheet metal processing industry in a certain region and the provision of perfect supporting processing services to domestic and foreign manufacturing enterprises will not only promote the overall development of machinery manufacturing enterprises but also drive the regional economy of the region to achieve new leaps and bounds, while the economic benefits of the enterprises will also be guaranteed.
+
+As China becomes more and more an international processing and manufacturing centre, coupled with increasing foreign investment, the demand for metal processing capacity continues to increase, while the metal processing industry is generally sheet metal parts such as electrical control boxes and machine housings, so the demand for sheet metal processing capacity is also increasing.
+
+In addition, as far as sheet metal processing is concerned, sheet metal processing companies usually require a wide range of machinery and equipment to meet different process requirements, while sheet metal punching accuracy is generally around ±0.1 mm and bending accuracy can generally reach ±0.5 mm, so the accuracy is much lower compared to sheet metal processing. Therefore, the advancement of technology in the industry has also brought about high profits. For example, the profit margin of punching in sheet metal processing can generally reach about 30%, while the profit of laser cutting is even higher than 50%.
+
+4. Industry profit level and trend change
+
+Overall, the profit level of the sheet metal processing industry mainly depends on product quality and processing precision, product and value-added services, downstream user enterprises and upstream raw material prices. Therefore, in the future, as the technological content of products in the industry becomes higher and higher, the impact of fluctuations in raw material prices on products will gradually be reduced, and the trend of changes in profit levels in the industry will be positive.
+
+At the same time, the future trend of profit level changes mainly depends on factors such as product quality and precision, product value-added services and downstream customer industries. Companies in the industry with strong technical strength, high-end customer resources and management advantages will be able to achieve higher profit levels in the industry in the future in the face of fierce competition.
+

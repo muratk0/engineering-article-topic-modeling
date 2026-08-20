@@ -1,0 +1,14 @@
+﻿# Reasons For Power Drop of Fiber Laser Cutting Machine
+
+In my experience with fiber laser cutting machines, I have encountered several issues that can lead to a power drop, significantly affecting cutting quality and efficiency. Understanding the reasons behind this power drop is crucial for troubleshooting and maintaining optimal performance. Over time, I have identified factors such as lens contamination, improper alignment, and cooling system malfunctions as common culprits. In this article, I will explore the reasons for power drop in fiber laser cutting machines, providing insights and solutions that can help operators enhance their machine's performance and achieve consistent cutting results.
+
+The machine will have losses, and the same is true of fiber laser cutting machines. There will be more or less losses in the long-term use process, such as slow cutting speed and poor cutting accuracy. There are many factors that determine the power of the fiber laser cutting machine. The laser cutting machine manufacturer HARSL Laser will briefly analyze the reasons for the power drop of the fiber laser cutting machine.
+
+1.The position of the focal point affects the accuracy of the fiber laser cutting machine. The size of the spot after the laser beam is focused is proportional to the focal length of the lens. After the beam is focused by the broken and long lens, the spot size is very small, and the power density at the focal point is very high. When the focus is in the best position, the kerf is the smallest and the efficiency is the highest, and the fiber laser cutting machine can obtain the best cutting results at the best cutting speed.
+
+2.The distance between the nozzle and the workpiece will also be coupled by the nozzle airflow and the workpiece slit. This is an aerodynamic problem. The form of the discharged airflow and the nozzle and the workpiece will be important variables. If the nozzle is too close to the workpiece, a strong back pressure will be generated, which will have a dispersing effect on the cutting material, and if it is too far away, it will cause unnecessary losses.
+
+3.If the cutting speed of the fiber laser cutting machine is too fast, the steel plate cannot be cut through, causing sparks to splash and even burn the lens. If the cutting speed of the fiber laser cutting machine is too slow, the material will be over-melted, the slit will become wider, the heat-affected zone will increase, and even the workpiece will be over-burned.
+
+4.The size of the auxiliary gas and gas pressure also affects the power of the fiber laser cutting machine. The auxiliary gas is best to use compressed gas or inert gas. If the thickness of the processing material increases or the cutting speed is slow, the gas pressure should be appropriately reduced. Lower gas pressure cutting prevents frosting of the cut edges.
+

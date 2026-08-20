@@ -1,0 +1,19 @@
+# KMF makes sheet metal investments
+
+[TARİH: 01.05.2012 ISMR]
+
+AT A total cost of £2.5 million, including the construction of a further extension to its 100,000 ft2 factory, KMF (Precision Sheet Metal) continues to develop its manufacturing facility at its Newcastle under Lyme headquarters (UK) with the installation of the latest in laser profiling technology.
+
+Increased demand for laser cut sheet metal parts from existing and new customers has led to KMF dramatically increasing its capacity, with the installation of two new TRUMPF laser cutting machines and an automated material handling facility. The two laser cutting machines are a 3 kW TRUMPF TruLaser 5030 fiber laser and a 3.2 kW TruLaser 3030 L20 laser. These two machines are linked by the Trustore 3030 Storage Tower system, which has the capacity to store up to 168 tonnes of sheet material in sheet sizes measuring up to 3000mm x 1500mm. This material is automatically picked from one of 56 locations and transferred to the laser by a LiftMaster Linear Store system.
+
+The total cost of the machines and storage systems was over £1.3 million with a further £1.2 million spent on a 17,000 ft2 extension that also houses a dedicated programming department as well as a covered goods-in and material loading area.
+
+By combining these new laser processing machines with the automation system KMF has arrived at a truly ‘lights-out’ solution to processing a wide range of materials, including copper, brass and aluminium, as well as ferrous and stainless steel sheet. Material thickness ranges from up to 6mm for copper and brass through to 20mm for ferrous material. This, combined with maximum axis speeds of up to 235 m/min. on the TruLaser 5030 Fiber machine, will lead to much improved productivity when laser cutting sheet and the automation will allow for greater flexibility in terms of batch size.
+
+Initial findings following the installation of the machines show, on thin sheet material, average performance gains of over 130 per cent on 1mm thick sheet and 188 per cent on 3mm mild steel when compared to older technology. With the new installation, KMF is also looking to realise further productivity gains as it develops a dynamic nesting philosophy in collaboration with the TRUMPF TruTops programming software.
+
+KMF’s latest investment in fully automated manufacturing technology includes a 3 kW TRUMPF TruLaser 5030 fiber laser and a 3.2 kW TruLaser 3030 L20 laser.
+
+This installation is the latest of an ongoing investment programme that has seen the factory at Newcastle under Lyme increase in size by 30,000 ft2 in the past two years and the workforce grow from 250 to over 300 in the same period. It is not just the UK that is seeing growth for KMF as it continues to develop its manufacturing facility in Slovakia. This has been established to win new business from an expanding European market, with emphasis on the industrial, electronics and aerospace sectors. The production capacity at the Slovakian facility will be further enhanced with the arrival of a refurbished TRUMPF 2530 laser machine which is being relocated from the main UK facility.
+
+At the end of its second year of operation, the employee Productivity Share Scheme at KMF continues to deliver process and performance boosting ideas that are benefiting employees, the business and, of course, its customers. In the past 12 months, these activities have generated savings of over £250,000 through a mix of process improvement and improved resource utilisation. The savings are then pooled and shared with successful scheme entrants resulting in a payment of £602 per employee. The balance of the savings are being returned to the business to assist the funding of ongoing investment in new technology and systems at the company’s Newcastle under Lyme facility. ■

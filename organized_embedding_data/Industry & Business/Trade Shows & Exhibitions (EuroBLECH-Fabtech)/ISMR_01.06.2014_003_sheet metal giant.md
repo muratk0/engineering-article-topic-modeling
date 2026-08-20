@@ -1,0 +1,11 @@
+# Sheet metal giant
+
+[TARİH: 01.06.2014 ISMR]
+
+FROM 21-25 October 2014 the international sheet metal working industry will meet at the EuroBLECH 2014 exhibition in Hanover, Germany. A total of 1,411 exhibitors from 41 countries have now booked their stands, covering 86,500 m2 of net floor space across eight halls of the Hanover Exhibition Centre. This represents a 3 per cent increase in exhibition space compared to the previous event.
+
+“Major exhibitor countries next to Germany are Italy; China; Turkey; the Netherlands; Spain; Switzerland; Austria and the USA. Half of all exhibiting companies come from outside Germany. This high percentage of international exhibitors once again confirms EuroBLECH’s position as the world’s number one exhibition for the sheet metal working industry. It also demonstrates that the industry sector continues to focus on international business contacts in order to be successful with products in the long run,” Mack Brooks Exhibitions, the EuroBLECH organiser, told ISMR.
+
+“As the technological showcase and business barometer of the sheet metal working industry, EuroBLECH offers its audience a comprehensive overview of prevailing technological trends. For companies in sheet metal working looking to find suitable machinery and smart solutions for modern production, the exhibition is the key global event. Visitors can find an extensive product range, from conventional systems through to advanced, high-tech processes, and also gain an overview of what is available worldwide,” added Nicola Hamann, Exhibition Director, EuroBLECH.
+
+The show profile of the 23rd International Sheet Metal Working Technology Exhibition represents the entire sheet metal working technology chain: sheet metal; semi-finished and finished products; handling; separation; forming; flexible sheet metal working; joining; welding; tube / section processing; surface treatment; processing of hybrid structures; tools; quality control; CAD/CAM systems; factory equipment and R&D. Visitors include engineers; production managers; quality managers; buyers; manufacturers; technical directors and experts in associations and R&D. For more exhibition details and the latest sheet metal job vacancies, see www.euroblech.com ■

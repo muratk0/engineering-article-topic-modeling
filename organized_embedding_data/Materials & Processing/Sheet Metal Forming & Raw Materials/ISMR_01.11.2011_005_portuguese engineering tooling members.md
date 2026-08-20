@@ -1,0 +1,71 @@
+# PORTUGUESE ENGINEERING & TOOLING MEMBERS
+
+[TARİH: 01.11.2011 ISMR]
+
+## COMPANIES
+
+3DTECH, Lda.
+
+JDD, Lda.
+
+PORTUTECMO, Lda.
+
+A SILVA GODINHO & C., Lda.
+
+LN MOLDES, Lda. MCG mind for metal
+
+RIBERMOLD, S.A.
+
+ANÍBAL H. ABRANTES, S.A.
+
+SET, S.A.
+
+DISTRIM2, Lda.
+
+www.mcg.pt MOLDEGAMA, S.A.
+
+SIMOLDES, S.A.
+
+DT2 NEW CONCEPT, Lda.
+
+MOLDES RP, Lda.
+
+TECMOLDE, Lda.
+
+FAMOLDE, S.A.
+
+MOLDIT, S.A.
+
+TECNIMOPLÁS, Lda.
+
+GECO, Lda.
+
+MOLDOESTE, Lda.
+
+TECNISATA, S.A. www.tecnisata.pt
+
+GEOCAM, Lda.
+
+MOLDOESTE2, Lda.
+
+TJ AÇOS, Lda.
+
+IBER-OLEFF, S.A.
+
+MOLDOPLÁSTICO, S.A.
+
+TJ MOLDES, S.A.
+
+IBEROMOLDES, S.A.
+
+MPTOOL, Lda.
+
+UEPRO, Lda.
+
+PLANIMOLDE, S.A.
+
+VIDRIMOLDE, Lda.
+
+INTERMOLDE, Lda.
+
+PMM, Lda.

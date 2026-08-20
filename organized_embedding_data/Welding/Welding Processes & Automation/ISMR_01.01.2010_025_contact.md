@@ -1,0 +1,15 @@
+# CONTACT
+
+[TARİH: 01.03.2010 ISMR]
+
+CARL CLOOS SCHWEISSTECHNIK GMBH www.cloos.de
+
+EWM HIGHTEC WELDING GMBH
+
+KEMPPI www.kemppi.com
+
+LORCH www.lorch.biz
+
+MOTOMAN www.motoman.com
+
+PANASONIC FACTORY SOLUTIONS COMPANY OF AMERICA www.panasonicfa.com

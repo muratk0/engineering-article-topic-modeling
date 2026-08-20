@@ -1,0 +1,247 @@
+# M-Positioners MP 500 / MP 1500
+
+[TARİH: 01.12.2025 The Fabricator]
+
+New Accessory & M-Positioner Offers 16 28
+
+The Siegmund M-Positioner is ideal for welding, assembly and maintenance work. Positioning happens via a manually driven hand wheel. Available in two different sizes with load capacities of 1,100 lbs and 3,300 lbs.
+
+Drive manually via hand wheel
+
+Force transmission through a bearing with integrated gear
+
+Universal flange for clamping of Siegmund U-Squares
+
+Clamping of components on Siegmund U-Squares
+
+Stability provided by large flat foot plate with floor anchoring
+
+Without U-Square
+
+EXCLUSIVE OFFERS
+
+Siegmund M-Positioner MP 500 incl. 72″ Square U-Shape Bundle
+
+10× US160610
+
+16× US160511
+
+8× US160105.N
+
+2× US160134.N
+
+2× US160136.N
+
+Siegmund M-Positioner MP 1500 incl. 72″ Square U-Shape Bundle
+
+10× US280610.N
+
+16× US280511
+
+8× US280407.N
+
+2× US280134.N
+
+2× US280136.N
+
+1× US160386.P
+
+1× US6M050016
+
+%
+
+was $13,166
+
+Item No. USM051016.25
+
+$10,539
+
+Total weight of this offer (M-Positioner incl. Bundle) approx. 447 lbs.
+
+1× US280386.P
+
+1× US6M150016
+
+%
+
+was $16,951
+
+Item No. US6M151016.25
+
+$13,569
+
+Total weight of this offer (M-Positioner incl. Bundle) approx. 1,194 lbs.
+
+Siegmund Workstation 48″ × 48″
+
+left and right each 23-5/8″ space for drawers
+
+incl. perforated plate 48″ × 48″
+
+through-hardened tool steel X8.7, plasma nitrided and BAR-coated
+
+Material thickness 7/16″
+
+Borehole Ø 16 mm (5/8″)
+
+Boreholes on the surface 2″ × 2″ grid
+
+Maximum load capacity: base plate 2,200 lbs (without plate) / caster 880 lbs (without plate)
+
+EXCLUSIVE OFFER
+
+Siegmund Workstation inclusive 48″ × 48″ Bundle
+
+4× US160620
+
+12× US160511
+
+4× US160108.N
+
+2× US160110.N
+
+1× US004310
+
+1× US160852
+
+%
+
+was $4,549
+
+Item No. US164691.25
+
+$4,099
+
+Total weight of this offer (Workstation incl. Bundle) approx. 510 lbs.
+
+Siegmund Workstation 32″ × 48″
+
+left and right each 23-5/8″ space for drawers
+
+incl. perforated plate 32″ ′ 48″
+
+through-hardened tool steel X8.7, plasma nitrided and BAR-coated
+
+Material thickness 7/16″
+
+Borehole Ø 16 mm (5/8″)
+
+Boreholes on the surface 2″ ′ 2″ grid
+
+Maximum load capacity: base plate 2,200 lbs (without plate) / caster 880 lbs (without plate)
+
+EXCLUSIVE OFFER
+
+Siegmund Workstation inclusive 32″ × 48″ Bundle
+
+4× US160620
+
+12× US160511
+
+4× US160108.N
+
+4× US160110.N
+
+1× US160852
+
+%
+
+was $3,256
+
+Item No. US164692.25
+
+$2,939
+
+Total weight of this offer (Workstation incl. Bundle) approx. 302 lbs.
+
+L: Length, B: Width, H: Height, G: Weight
+
+Prices quoted in U.S.D., excl. sales taxes, packing and transport costs.
+
+Mobile lifting table 1,100 lbs
+
+Dimensions (L x W): approx. 25″ × 44″
+
+Weight (without Plate): approx. 144 lbs
+
+Working height from approx. 28″ to 39″
+
+Only compatible with specified worktops (special attachment points in the worktop)
+
+Maximum load capacity: basic frame (without plate) 1,100 lbs
+
+Mobile lifting table 2,200 lbs
+
+Dimensions (L x W): approx. 39″ × 59″
+
+Weight (without Plate): approx. 441 lbs
+
+Working height from approx. 28″ to 39″
+
+Fastening via the boreholes
+
+Maximum load capacity: basic frame (without plate) 2,200 lbs
+
+Mobile lifting table 2,200 lbs
+
+Dimensions (L x W): approx. 39″ × 59″
+
+Weight (without table top): approx. 441 lbs
+
+Working height from approx. 28″ to 39″
+
+Maximum load capacity: basic frame (without plate) 2,200 lbs
+
+Protective plate below the worktop
+
+Rotating table static 2,200 lbs
+
+Dimensions static 31″ × 31″
+
+Weight (without Plate): approx. 154 lbs
+
+Working height between 31″ and 43″
+
+Due to the danger of tipping, we exclusively recommend the size shown
+
+Maximum load capacity: Basic frame (without plate) 2,200 lbs
+
+Rotating table portable 2,200 lbs
+
+Dimensions 31-1/4″ × 31-1/4″
+
+Weight (without Plate): approx. 154 lbs
+
+Working height between 31″ and 43″
+
+Due to the danger of tipping, we exclusively recommend the size shown
+
+Maximum load capacity: Basic frame (without plate) 2,200 lbs
+
+Magnetic ground connection
+
+Magnetic ground connection with rotary joint for a high holding force on clean and smooth surfaces. No more twisting cables thanks to the quick and easy grounding.
+
+Connection can be clamped or hard-wired. In combination with an adapter plate and countersunk-head screw, it is perfectly suited as a retrofit set for the rotating table.
+
+MS: Material thickness, G: Weight
+
+Prices quoted in U.S.D., excl. sales taxes, packing and transport costs.
+
+Basic 8.7 – Imperial Series
+
+Through-hardened tool steel X8.7, plasma nitrided and BAR-coated
+
+Material thickness approx. 15/16″ – 1-1/16″
+
+Borehole Ø 28 mm (1-1/10″), Boreholes on the surface in diagonal grid
+
+M12-thread on 4 sides every 8″
+
+5/16″ × 45° chamfer for table leg mounting
+
+Grid dimension 4″ × 4″
+
+incl. leg standard equipment
+
+Light to Heavy Duty Fabrications

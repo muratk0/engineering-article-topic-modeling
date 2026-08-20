@@ -1,0 +1,23 @@
+# SEPTEMBER 2018
+
+[TARİH: 01.09.2018 ISMR]
+
+PUBLISHING DIRECTOR: Jon Fellows
+OPERATIONS DIRECTOR: Andrew Stevens
+HEAD OF PRODUCTION: Charles Dragazis
+EDITOR: Sara Waddington (sara.waddington@trmg.co.uk)
+PROJECT MANAGER: Stefan Glosby
+DESIGN: Andrew Pollard
+SUBSCRIPTIONS & MARKETING MANAGER: Amy Alford
+GLOBAL COMMERCIAL MANAGER: Bobby Bagha
+
+SUBSCRIPTION HOTLINE AND SUBSCRIPTION ENQUIRIES Bobby Bagha +44 1707 273 999 ext.257 or e-mail: ismr.subscriptions@trmg.co.uk
+
+EDITORIAL E-MAIL: sara.waddington@trmg.co.uk GENERAL ENQUIRIES ismr.magazine@trmg.co.uk
+
+International Sheet Metal Review is published 10 times per year by TRMG Ltd, on behalf of Mack Brooks Publishing Ltd.
+
+©ISMR 2018
+
+TRMG LTD, WINCHESTER COURT 1 FORUM PLACE, HATFIELD, HERTS, AL10 0RN, UK
+Tel: +44 (0)1707 273 999

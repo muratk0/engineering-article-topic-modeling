@@ -1,0 +1,17 @@
+# The next generation of family business owners
+
+[TARİH: 01.01.2017 ISMR]
+
+ACCORDING TO PWC, one of the biggest challenges facing family businesses involves passing the baton to the next generation. PwC's new survey 'Great expectations: The next generation of family business leaders' reveals that next gens are actively planning for the future of their firms including expansion plans, digital strategy and new products.
+
+"Almost two years since the 2014 survey, next gens' confidence has risen while their readiness for senior roles has improved. This can be credited to a large majority of next gens - 70% - working outside their family enterprise to gain separate, but useful, business experience. As a result, many talented next gens are becoming much more selective about the role they take on within their family enterprise. They want a job that matches their skills, and where they can excel," explained PwC.
+
+"The next generation are exploring new ideas, new markets, new locations and even new business models. Although their confidence continues to grow, next gens are still feeling a pull towards the past. While they are striving for innovation, 40% agree that they feel some level of frustration in implementing and executing new ideas. More than half are also concerned about how much time they will spend managing family politics in the future.
+
+"In particular, digital is an area where a generation gap still lingers. Many next gens struggle to convince their parents that the firm needs to do more on digital. Only 41% said they believed their firm had a strategy fit for the digital world, which means as many as 59% do not. We've really seen a change in the attitude of the current generation. They may still have reservations about where, how and what to invest in digital, but they no longer question whether they should do it: they know they must, even if they don't immediately see a return on the investment."
+
+Ultimately, said PwC, there is a lot of good news in its Next Gen Survey. Respondents are confident, more experienced and excited for the future. However, many of the fundamental challenges still remain. In its 2014 PwC Family Business Survey, PwC identified skills, succession and scale as three of the biggest challenges facing family businesses. Now years later, these three factors remain more relevant than ever.
+
+"The succession process will always be a sensitive one, and a robust plan and framework are vital. It's reassuring to see that many more family firms are starting this process sooner, and managing it more effectively. Understandably, this process continues to worry the next generation of US family business leaders. They're largely concerned with how the current generation will adapt to changes and measure up in the future. We also found that 61% believe that it will be difficult for the current generation to fully let go when they take over. It's important for the current generation to realize that the transition of the business will be different for their heirs than the previous generation. The business is often much larger and more complex, as is the family, due to an often expanding number of heirs in the next generation creating a broader share of ownership and management considerations. These challenges need to be thoughtfully managed and addressed," concluded PwC.
+
+You can access the full survey results at www.pwc.com/nextgen

@@ -1,0 +1,15 @@
+# Analysis
+
+[TARİH: 01.12.2018 The Fabricator]
+
+When U.S. fabricators began installing lasers in earnest in the 1980s and 1990s, the kilowatt race was on. Today the race is a bit more nuanced. Fabricators are still racing, but it’s not about cut velocity so much; now it’s about part velocity. They’re not thinking about cutting inches per minute, but instead how fast parts flow to feed their constraint operations; in a typical sheet metal shop, that constraint is usually in flat-part deburring, bending, grinding, or welding.
+
+No one who participated in this study said that laser cutting was a constraint process. In fact, most said the constraint occurred in bending. The one company that didn’t have a constraint in bending happened to make a large press brake investment, with a few fast lasers feed more than a dozen electric and hydraulic press brakes.
+
+And this comes from a sampling of fabricators that (at least at the time of data gathering, in September 2018) employ manual material handling techniques. Not one of these shops has a tower or automated storage system, and only two shops employ automated load/unload on the lasers.
+
+At the same time, all five operations were using solid-state lasers. Time studies at some operations revealed that, yes, shops sometimes experienced lower beam-on times than they would have in a fully automated material handling setup. It is true that, especially when cutting thin sheets, many operations struggled to keep pace with the productivity of the laser machine.
+
+Many shops automate not for speed of processing, but for consistency: Automatic loading and unloading processes deliver consistent, predictable cycle times, day in and day out. But one data point in this study revealed a weak link in the process chain, one which—even if every other process were automated—would still require a person, often working very hard, wielding hand suction cups, hammers, even airpowered chisels. At the end of the day, for all the know-how and technology these companies can bring to bear, the sorting of laser-cut parts comes down to old-fashioned manual labor.
+
+Fabricators have straightforward ways to increase their manufacturing capacity: Buy more machines or invest in automation. They can optimize their laser cutting parameters to minimize deburring and increase cut speeds. They can eliminate manual sheet handling and inventory management using towers and automated storage systems. Work processes can also be tweaked to increase throughput. But no matter how easy the cutting process is, each part still needs to be taken out of a nest, be it on the shuttle table or at a designated de-nesting area. People still need to reach, lift, and stack the products at some point. Considering the data points in this study, part sorting automation looks to be the next frontier in laser cutting.

@@ -1,0 +1,17 @@
+# Sheet metal focus
+
+[TARİH: 01.10.2015 ISMR]
+
+THE SCHRÖDER GROUP will be exhibiting its sheet metal working machines at Blechexpo 2015 (3-6 November 2015) in Stuttgart, Germany. In Hall 1 (Stand 1708), Hans Schröder Maschinenbau and SCHRÖDER-FASTI will present themselves as specialists for sheet metal working with an extensive portfolio of machines for cutting and folding. The range of live demonstrations will extend from manually-operated machines up to high precision and flexible folding machines for industrial applications.
+
+“One highlight at the booth will be an innovative option for the PowerBend Professional. This successful folding machine has efficiency-enhancing options such as the Up-and-Down folding beam and the rotating clamping beam,” explained Schröder Group. “Thanks to its new feature of a back gauge with suction cups, the PowerBend Professional will be the only machine in its range that now also offers semi-automated sheet metal processing. Pneumatic fixing of sheets has been developed to complement the back gauge. A special feature of the new gauge is for bending sheets that already have large radii – a task that normal gauges cannot carry out as gauge fingers have difficulty fixing such sheets.
+
+“One of the main advantages is that plates with cut-outs or radii on the gauge side of the machine are easily gripped and, with the intelligent software control POS 2000 Professional, all bends on one side are processed automatically and without any additional handling by the operator. This increases throughput and repeatability as the machine positions the sheet without any human intervention.”
+
+The newly developed automatic tool changer of the SPB Evolution UD further increases the flexibility of this industrial bending technology. The compact tool changer offers variable options for the set-up of tool stations – the gripper is able to move alongside the middle of the clamping beam. The set-up process is fully automated as part of the bending process – serial production can be interrupted without any loss of time for single pieces and small batches.
+
+The shear experts from SCHRÖDER-FASTI will also be presenting a new generation of energy-efficient, hydraulic shears called PowerShear Professional. The new drive, with a converter-controlled motor and hydraulic pump, needs significantly less hydraulic oil and energy. The shear, with a working length of 3000mm, cuts thick steel sheets of up to 6mm. Machine types for up to 20mm sheet thickness will follow after the exhibition. Other shears for thin metal applications will also be shown at Blechexpo - the PDC 3200 x 3 and MHSU 2000 x 2.5 with a back gauge adjustable from the front with digital readout, sheet support and a sheet stacking cart.
+
+A new version of the ASK 3 folding machine, with segmented tools on all beams, enables larger clearances for the workpiece. A practical feature is the new, removable gauge for the bending angle. This means that the operator can keep an angle gauge adjustment but can still, for example, hem a flange. Schröder Group’s motorized folding machine, MAKVS, is equipped with a patented quick clamping device for the rapid change of clamping and folding beam tools.
+
+The 417-125/3 is a power-operated swaging and flanging machine with a hydraulic adjustment of the upper shaft. It is characterized by rigid stand design for high rigidity and low wear. The rounding machine type 134 will also be shown at Blechexpo as the version for 2mm thick sheets featuring CR8 software control. See www.schroedergroup.eu/en.

@@ -1,0 +1,22 @@
+﻿# How to deal with and prevent common defects of bent parts
+
+With the wide application of bent parts in engineering machinery products, in order to meet their product quality and production needs, their quality standards have gradually improved. In the cold state, the CNC bending machine can use the universal mold (or special mold) to bend the metal sheet into various geometric cross-section shapes. The rationality of the bending process directly affects the final molding size of the product. And appearance. By controlling and preventing the bending defect process, an effective process is adopted to improve the quality of the workpiece.
+
+## 1. Common defects and process measures for bent parts
+
+(1) Fracture: After shearing or blanking, the material often has burrs or fine cracks on the edges. When bending, it tends to form stress concentration and is fractured. Figure 1 shows that the workpiece is fractured when the workpiece is fractured, and the cracking position is The shear band and the rolling belt that occur in the workpiece. The technical measures adopted for this are as follows: (1) After cutting or punching the workpiece, the shearing face is ensured during bending, that is, under pressure, as shown in Fig. 2, the forming effect is good. The workpiece is burred before the bend, and the bend can be ground using a manual grinder.
+
+(2) Rebound: Metal materials exist during the bending process, and plastic deformation and elastic deformation exist. At the end of the bending, rebound occurs due to the recovery of the elastic deformation, as shown in FIG. The rebound phenomenon directly affects the dimensional accuracy of the workpiece and must be controlled. The technical measures taken for this is: 1 angle compensation method. If the bending angle of the workpiece is 90°, the opening angle of the lower groove (V-shaped) of the bending machine can be selected as 78°.
+
+2 Pressurization time increases the correction method. At the end of the bending, the pressure correction is performed to extend the contact time of the upper die, the workpiece and the lower groove of the bending machine, so as to increase the degree of plastic deformation at the rounded corner of the lower groove, so that the rebound tendency of the fiber in the tension and compression zone resists each other, thereby reducing back bomb.
+
+## 2. Bent parts process problem prevention
+
+(1) Bent parts with holes: When the bent workpiece has round holes or long round holes, as shown in Fig. 6 and Fig. 7, where L is the distance from the edge line of the hole to the edge of the curved area, and t is the thickness of the plate. Formed, and within the bending deformation, the drawing will occur after the bending, resulting in the shape of the bending part can not meet the design requirements, and the hole will also be deformed, need to take process measures to prevent.
+
+The technical measures adopted for this are as follows: ① For a circular hole, if L≥2t, the hole can be formed before the workpiece is bent. If a slight hole deformation occurs, the drilling machine needs to be re-perforated; if L<2t, the workpiece is required to be pressed. drilling. ② For the oblong hole, according to the above-mentioned circular hole treatment, in general, ensure that the length of the circular hole is not more than 20% of the width of the plate (in the direction of the bending line), that is, La≤0.2Lb, but in special cases, according to the actual workpiece The shape is specifically analyzed.
+
+(2)Fracture prevention of non-shearing parts: The fiber structure formed by the steel sheet during the rolling process, due to its directionality, causes the anisotropy of the mechanical properties of the material. In the actual operation of the workshop, when the fiber direction is parallel to the direction of the bending line, the tensile strength of the material is poor, and the rounded corner is easily broken. The technical measures adopted for this are as follows: 1 If the overall fiber shape is limited, the direction of the tissue fiber is parallel to the direction of the bend line, and the radius of the bend fillet is increased, at least twice the minimum bend radius of the sheet. 2
+
+When the direction of the tissue fiber is perpendicular to the bend line, the material has a large tensile strength, and the corner radius of the bend can be the minimum bend radius. 3 When bending a bidirectional workpiece, the direction of the tissue fibers must be at an angle to the direction of the bend line.
+

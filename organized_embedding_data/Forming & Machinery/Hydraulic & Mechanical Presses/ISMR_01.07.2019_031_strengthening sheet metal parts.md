@@ -1,0 +1,11 @@
+# Strengthening sheet metal parts
+
+[TARİH: 01.08.2019 ISMR]
+
+"STRENGTHENING RIBS ARE suitable for adding strength to sheet metal parts. Using our Rollerball™ tooling, punch press operators can quickly and easily create stiffening ribs and decorative beads in sheet metal without secondary operations. Our Rollerball tool forms the rib by pinching the metal between two omni-directional ball bearings in the upper tool assembly and a single ball bearing in the tool's lower assembly. The shape of the rib is created by the punch press programming system and can be placed anywhere on the part surface," Mate Precision Tooling told ISMR.
+
+The Mate Rollerball tool is designed to be used in machines that can hold the ram down while simultaneously moving the sheet around the X and or Y axis. When used in machines with accurate stroke control, a simple adjustment to the machine's stroke length can create a deeper or shorter form. In other thick turret machines, using the Mate Rollerball in a Mate Ultraform™ holder offers adjustability by changing the length of the holder with a few clicks of the tool.
+
+"When the material is deformed to create the ribs, the affected material thickness increases, strengthening the material," confirmed John Ripka, Mate Precision Tooling application specialist. "The tool allows part designers to reduce sheet metal thickness without compromising the strength and rigidity of the final product. These ribs can make all the difference if you are using the minimum material thickness to control costs. These applications also allow the fabricators to eliminate secondary operations that result in material and labour cost savings, with reduced production time."
+
+Stiffening ribs are particularly helpful in large unsupported metal panels, typical in duct work for heating and air conditioning systems. The Rollerball tool is also versatile and can create an emboss to provide additional clearance for a feature or hardware. It can also add visual or cosmetic enhancements to fabricated products. Mate Rollerball is available in most popular tool styles including Mate Ultraform for Thick Turret, TRUMPF-style, Murata-Wiedemann, Thin Turret, Salvagnini punchpresses and more. See www.mate.com

@@ -1,0 +1,11 @@
+# Siegmund Welding Tables and Fixtures
+
+[TARİH: 01.09.2025 The Fabricator]
+
+WELDING TABLES AND FIXTURES – IMPERIAL SERIES
+
+ABSOLUTE ACCURACY. TOTAL CONTROL.
+
+04-’25
+
+09/01/2025 thru 08/31/2026

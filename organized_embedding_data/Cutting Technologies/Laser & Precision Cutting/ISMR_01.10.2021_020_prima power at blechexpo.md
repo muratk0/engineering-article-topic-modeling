@@ -1,0 +1,19 @@
+# Prima Power at Blechexpo
+
+[TARİH: 01.10.2021 ISMR]
+
+Prima Power will be showcasing its latest solutions to meet the needs of the sheet metal world at Blechexpo in Stuttgart, Germany, from 26–29 October 2021.
+
+"Visitors can discover our comprehensive and versatile technologies for the entire production chain. The diversification of technologies presented on the Prima Power stand (laser cutting, punching, bending, automation, software), is complemented by the presence of a "special guest'. For the first time, a corner entirely dedicated to Prima Additive - a business unit of the Prima Industrie group dedicated to metal 3D printing solutions - will be on the Prima Power booth at Blechexpo," it told ISMR.
+
+For 2D laser cutting, Prima Power will showcase its Laser Genius+. With its high dynamics (180m/min. trajectory speed and 2.8g acceleration), cycle times can be considerably reduced and productivity and cutting quality increased. With a wide range of laser powers available, Laser Genius+ is a plug & play compact machine where all services, already tested, are integrated into one dedicated module separated from the machine's working area. Rapid installation times (ready to cut in two days), a symmetrical and reversible layout and a small footprint are other benefits.
+
+"Despite its compact layout, the Laser Genius+ has the largest working area compared to other 2D machines available on the market (X, Y axis strokes: 3150 × 1600 for the 1530 model; 4320 × 2200 for the 2040 model and 6320 × 2200 for the 2060 model)," added the Italian manufacturer.
+
+Laser Genius+ can be connected to the entire range of Prima Power automation systems. At Blechexpo, it will be displayed with its Combo Tower Laser and the new flexible picking and stacking robot, PSR 2D, by Prima Power. PSR 2D can be connected directly to the Night Train FMS storage solution. An automatic panel bender can also be connected to PSR 2D, creating an automated production line from raw sheet metal to cut and bent finished products. Prima Power's BCe Smart bending cell will also be showcased at Blechexpo. It is a servo-electric machine, designed for customers looking for a flexible and semiautomatic panel bender with a "safety integrated' concept that allows the operator to focus only on value-added operations, worktable tops can be lowered to facilitate loading of small or medium-sized parts.
+
+BCe Smart features two innovative technologies for bending quality control. DABA (Dynamic Adjustment of the Bending Angle) is a proprietary technology that considerably reduces the time required to create a new panel, using corrective parameters suggested in relation to several material variables. API (Advanced Profile Inspection) is a complementary patented option that consists of a camera device used to apply corrections to a bend to reach the target angle within the required tolerance.
+
+The Prima Power line of combined punch+laser systems will also be showcased at Blechexpo. Visitors can see the Combi Sharp in action, the compact servo-electric model that combines punching, forming, marking, bending and fibre laser cutting in one machine. The cornerstones of the machine's productivity include large tool capacity (up to 384 standard or 128 index tools), a wide range of special tools and easy/ rapid set-up/change. At Blechexpo, it will be equipped with the Compact Express, a fully automated material handling device featuring several combinations of automatic and manual loading/unloading cycles.
+
+Live demonstrations of Prima Power software for smart manufacturing will also be available for visitors to experience how a single module can schedule and monitor the entire manufacturing process, all technologies involved and all levels of automation. At Blechexpo, Prima Power will be displaying all its software packages to support different levels of production automation.

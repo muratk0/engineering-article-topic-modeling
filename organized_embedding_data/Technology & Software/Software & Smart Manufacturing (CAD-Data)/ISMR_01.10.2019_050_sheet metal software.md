@@ -1,0 +1,5 @@
+# Sheet metal software
+
+[TARİH: 01.10.2019 ISMR]
+
+THE RADAN SHEET METAL software package will be highlighted at the Blechexpo exhibition in Stuttgart (5-8 November 2019). “Visitors at the show will see that it is now so much more than just a CAD/CAM system. While the latest release will be on show, highlighting features with new and enhanced CAD/ CAM functionality for cutting, bending, tubelaser and 5-axis laser, there will also be demonstrations of the Radquote and Webquote quoting modules, along with the RADAN MRP System Ordermanager. Ordermanager is the essential link between the logistic, horizontal processes in an ERP system and the vertical manufacturing process to the shop floor,” Hexagon told ISMR. The RADAN booth at Blechexpo (booth 1700 in Hall 1) is being run by its German reseller, 3D Concepts GmbH. “Within RADAN, we can close the loop to become a full digital factory delivering a solution for every requirement in sheet metal production, combined with aspects of Industry 4.0,” commented Thomas Menholz from 3D Concepts. See www.radan.com or www.hexagonmi.com ■

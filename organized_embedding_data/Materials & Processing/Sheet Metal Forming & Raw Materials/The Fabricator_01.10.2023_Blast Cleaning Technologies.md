@@ -1,0 +1,11 @@
+# Blast Cleaning Technologies
+
+[TARİH: 01.10.2023 The Fabricator]
+
+INNOVATION ▪ SERVICE ▪ COMMITMENT ▪ TECHNOLOGY ▪ QUALITY ▪ FOCUS ▪ SOLUTIONS ▪ SAFETY ▪ TEAMWORK
+
+DESIGN & ENGINEERING EXPERTS
+
+Plate, Structural, Rebar, Pipe, Wire, and Bar
+
+MADE IN AMERICA

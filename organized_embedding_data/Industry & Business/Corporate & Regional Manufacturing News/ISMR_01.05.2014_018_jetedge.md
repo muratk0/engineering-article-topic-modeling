@@ -1,0 +1,13 @@
+# JetEdge
+
+[TARİH: 01.05.2014 ISMR]
+
+WATER WILL CUT VIRTUALLY ANYTHING ...INCLUDING COSTS
+
+www.jetedge.com +1.763.497.8700
+
+JetEdge
+
+Coming to IMTS & Euroblech!
+
+FOCUS ON CAD/CAM

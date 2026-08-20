@@ -1,0 +1,13 @@
+# Laser blanking lines
+
+[TARİH: 01.11.2019 ISMR]
+
+FAGOR ARRASATE, a specialist in the design, manufacture and supply of deforming and forming machine tools, presented its latest developments in intelligent stamping systems at Blechexpo in Stuttgart this November. The spotlight was on its new series of laser cutting blanking lines, a technology aimed at automotive manufacturers and service centres to increase their productivity and improve the flexibility of their production. In addition, the company showed its latest developments in hotstamping lines, transfer presses, high cadence lines and presses with advanced connectivity for composite materials.
+
+The new laser cutting blanking technology can incorporate several laser heads with different power ranges adapted to the characteristics of the material to be processed (steel and non-ferrous metals, mainly stainless and aluminium). It is also designed to offer benefits for short production runs.
+
+"The great novelty of this technology is that the conventional press is replaced by a system of laser heads that make the cut in place of the die. By avoiding the unproductive times of die replacement by reference change, a significant increase in productivity is achieved in addition to the flexibility of the system. Simply enter the new data into the PLC to have the system active again. This characteristic makes it the ideal equipment for small batch runs with frequent rotations, as well as for the development and industrialisation of new parts. In addition, due to the absence of presses and dies, this technology requires less investment, making the return on investment faster," Fagor Arrasate told ISMR.
+
+These lasers have no geometric limitations, making it possible to obtain parts with more complex geometric shapes. The flexibility when setting the laser path allows a better use of the coil, reducing waste material. Replacing the press with lasers also allows users to obtain more compact equipment, with less height (requiring less work for installation, as there is no pit). It also saves space as there is no need to store the different dies. The absence of a press makes maintenance simpler and more economical, added the company.
+
+The multi-head range is designed to be able to feed a line of presses replacing the line front. The single head range is more focused on the development and industrialisation of new parts. This entry-level range aims to make the technology accessible to smaller companies. The system enables the processing of different steels, including ultra-high strength steels (UHSS), as well as aluminium.■
